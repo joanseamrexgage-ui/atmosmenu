@@ -1,0 +1,2 @@
+﻿python-telegram-bot
+Flask
