@@ -47,7 +47,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     ]
     reply_markup = telegram.ReplyKeyboardMarkup(keyboard, resize_keyboard=True)
     await update.message.reply_text(
-        "Добро пожаловать в кулинарную книгу! Нажмите кнопку ниже, чтобы открыть каталог рецептов.",
+        "Привет! Вся информация о блюдах данная мне в милом формате только для тебя. Добро пожаловать в Атмосферу!",
         reply_markup=reply_markup
     )
 
