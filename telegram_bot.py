@@ -24,7 +24,7 @@ logging.basicConfig(
 # ВАЖНО: Замените 'YOUR_TELEGRAM_TOKEN' на ваш реальный токен от BotFather
 TELEGRAM_TOKEN = "8414423840:AAGTmBCeORnBl9YVWpG6rOOrMq7L0Bafcqc"
 # ВАЖНО: Замените 'YOUR_MINI_APP_URL' на вашу ссылку от GitHub Pages
-MINI_APP_URL = "YOUR_MINI_APP_URL"
+MINI_APP_URL = "https://github.com/joanseamrexgage-ui/atmosmenu/blob/main/mini_app.html"
 
 
 # --- Flask Web Server для "Keep-Alive" ---
